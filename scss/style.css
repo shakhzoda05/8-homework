@@ -1,0 +1,173 @@
+@font-face {
+  font-family: Poppins;
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+body {
+  font-family: Poppins, sans-serif;
+}
+body header {
+  padding: 20px 0;
+}
+body header .nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body header .nav .logo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+body header .nav .logo span {
+  font-size: 30px;
+  color: #173a56;
+}
+body header .nav-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+body header .nav-links .sign {
+  padding: 10px 23px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+}
+body header .nav-links .sign.in {
+  border: 1px solid #bcd0e5;
+  color: #173a56;
+  background: #fff;
+}
+body header .nav-links .sign.up {
+  border: 1px solid #02897a;
+  color: #fff;
+  background: #02897a;
+}
+body header .nav-links .btn-dark {
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+body header .nav-link {
+  font-size: 16px;
+  color: #22343d;
+}
+body main .hero {
+  padding: 25px 0;
+}
+body main .hero-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body main .hero-text {
+  color: #22343d;
+}
+body main .hero-text h1 {
+  font-size: 40px;
+  font-weight: 900;
+  margin-bottom: 18px;
+}
+body main .hero-text p {
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+body main .hero-btns {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+body main .hero-btns button {
+  padding: 10px 23px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid #02897a;
+  color: #fff;
+  background: #02897a;
+}
+body main .hero-btns a {
+  display: flex;
+  align-items: center;
+  gap: 8.5px;
+}
+body main .hero-btns a span {
+  color: #02897a;
+  font-weight: 600;
+  line-height: 24px;
+  border-bottom: 2px solid #02897a;
+}
+body main .sign-up-now {
+  background: url(../images/background\ image\ shadow.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+body main .sign-up-now h1 {
+  font-family: Poppins, sans-serif;
+  color: rgb(34, 52, 61);
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 66px;
+  padding-top: 114px;
+}
+body main .sign-up-now h3 {
+  color: rgb(34, 52, 61);
+  font-family: Poppins, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  text-align: left;
+  padding-top: 30px;
+  padding-bottom: 13px;
+}
+body main .sign-up-now p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  width: 240px;
+  height: 52px;
+  top: 46px;
+}
+body main .sign-up-now .sign-up-now-content .all-icon-and-texts {
+  display: flex;
+  justify-content: space-between;
+  gap: 46px;
+}
+body main .sign-up-now .sign-up-now-btn {
+  padding: 10px 23px;
+  font-weight: 600;
+  border-radius: 9px;
+  cursor: pointer;
+  border: 1px solid #02897a;
+  color: #fff;
+  background: #02897a;
+  margin-top: 60px;
+  margin-bottom: 90px;
+  margin-left: 474px;
+}/*# sourceMappingURL=style.css.map */
