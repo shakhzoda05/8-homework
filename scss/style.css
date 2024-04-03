@@ -170,4 +170,165 @@ body main .sign-up-now .sign-up-now-btn {
   margin-top: 60px;
   margin-bottom: 90px;
   margin-left: 474px;
+}
+body main .texts-and-img {
+  display: flex;
+  align-items: center;
+  gap: 84px;
+  padding-bottom: 60px;
+}
+body main .left-side {
+  text-align: left;
+}
+body main .left-side .l-text1 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  padding-top: 169px;
+}
+body main .left-side-l-text2 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+}
+body main .left-side-l-text2-p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  width: 486px;
+  height: 78px;
+  color: rgb(34, 52, 61);
+  word-wrap: break-word;
+  padding-top: 23px;
+}
+body main .left-side-h3 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  width: 151px;
+  height: 26px;
+  word-wrap: break-word;
+}
+body main .left-side .l-text2 h1 {
+  padding-top: 8px;
+}
+body main .left-side .l-text2 p {
+  padding-top: 23px;
+}
+body main .left-side .l-text3 h3 {
+  padding-top: 30px;
+}
+body main .left-side .l-text3 p {
+  padding-top: 12px;
+}
+body main .left-side .l-text4 h3 {
+  padding-top: 25px;
+}
+body main .left-side .l-text4 p {
+  padding-top: 12px;
+}
+body main .right-side img {
+  padding-top: 190px;
+}
+body main .search-section {
+  display: flex;
+  align-items: center;
+  gap: 131px;
+  padding-top: 60px;
+}
+body main .search-section .text-side .texts h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  padding-bottom: 8px;
+}
+body main .search-section .text-side .texts h1 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  padding-bottom: 23px;
+}
+body main .search-section .text-side .texts p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  padding-bottom: 30px;
+}
+body main .search-section .text-side .texts .yellow-tick-and-text {
+  display: flex;
+  gap: 30px;
+  padding-bottom: 30px;
+}
+body main .search-section .text-side .texts .red-tick-and-text {
+  display: flex;
+  gap: 30px;
+  padding-bottom: 30px;
+}
+body main .search-section .text-side .texts .blue-tick-and-text {
+  display: flex;
+  gap: 30px;
+}
+body main .experts-section {
+  padding-top: 50px;
+  background: url(../images/expert\ section\ shadow.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+body main .expert-section .two-texts h1 {
+  font-family: Poppins;
+  font-size: 32px;
+  padding-bottom: 16px;
+  text-align: center;
+  color: rgb(34, 52, 61);
+}
+body main .expert-section .two-texts p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+  color: rgb(34, 52, 61);
+  padding-bottom: 32px;
+}
+body main .expert-section .foto-and-message {
+  display: flex;
+  align-items: center;
+  gap: 180px;
+  padding-top: 32px;
+}
+body main .expert-section .expert-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 48px;
+  padding-bottom: 110;
+}
+body main .expert-section .expert-btn button {
+  padding: 10px 23px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid #02897a;
+  color: #fff;
+  background: #02897a;
 }/*# sourceMappingURL=style.css.map */
