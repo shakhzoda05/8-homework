@@ -331,4 +331,90 @@ body main .expert-section .expert-btn button {
   border: 1px solid #02897a;
   color: #fff;
   background: #02897a;
+}
+body main .card-section .cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body main .card-section .content-texts {
+  text-align: center;
+}
+body main .card-section .content-texts h2 {
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 51px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  padding-top: 150px;
+  padding-bottom: 8px;
+}
+body main .card-section .content-texts p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+  padding-bottom: 32px;
+}
+body main .card-section .card-1 {
+  border: 1px solid rgb(222, 222, 222);
+  border-radius: 9px;
+  padding-bottom: 40px;
+}
+body main .card-section .card-1 img {
+  border-radius: 9px 9px 0 0;
+}
+body main .card-section .card-1 .card-text1 {
+  padding-left: 40px;
+}
+body main .card-section .card-1 .card-text1 p {
+  padding-top: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+}
+body main .card-section .card-1 .card-text1 h3 {
+  padding-top: 12px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: rgb(34, 52, 61);
+}
+body main .card-section .card-1 .card-2 .card-text2 {
+  padding-left: 40px;
+}
+body main .card-section .card-1 .card-2 .card-text2 p {
+  padding-top: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+body main .card-section .card-1 .card-2 .card-text2 h3 {
+  padding-top: 12px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+}
+body main .card-section .card-1 .card-2 .card-text2 p {
+  color: #02897a;
+}
+body main .card-section .card-1 .card-2 .card-text2 h3 {
+  color: #02897a;
+}
+body main .card-section .nuqta {
+  align-items: center;
+  padding-top: 64px;
+  padding-left: 575px;
 }/*# sourceMappingURL=style.css.map */
