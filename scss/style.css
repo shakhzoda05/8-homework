@@ -388,31 +388,6 @@ body main .card-section .card-1 .card-text1 h3 {
   text-align: left;
   color: rgb(34, 52, 61);
 }
-body main .card-section .card-1 .card-2 .card-text2 {
-  padding-left: 40px;
-}
-body main .card-section .card-1 .card-2 .card-text2 p {
-  padding-top: 24px;
-  font-family: Poppins;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 28px;
-  text-align: left;
-}
-body main .card-section .card-1 .card-2 .card-text2 h3 {
-  padding-top: 12px;
-  font-family: Poppins;
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 40px;
-  text-align: left;
-}
-body main .card-section .card-1 .card-2 .card-text2 p {
-  color: #02897a;
-}
-body main .card-section .card-1 .card-2 .card-text2 h3 {
-  color: #02897a;
-}
 body main .card-section .nuqta {
   align-items: center;
   padding-top: 64px;
